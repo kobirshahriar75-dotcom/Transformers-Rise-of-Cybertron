@@ -1,0 +1,16 @@
+# Compiled files & binaries
+bin/
+*.exe
+*.o
+
+# Local save data / game state
+save_data.dat
+
+# IDE and OS specific folders
+.vscode/
+.vs/
+*.DS_Store
+
+# Exclude campaign and menu music assets
+assets/music/campaign/
+assets/music/menu/
